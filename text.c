@@ -6,3 +6,5 @@ printf("enter number");
 scanf("%d",&b);
 int mul=a*b;
 printf("%d",mul);
+return0;
+}
